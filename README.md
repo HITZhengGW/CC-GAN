@@ -1,5 +1,6 @@
 # CC-GAN
 
+This is the official PyTorch implementation for our paper, "XXX".
 
 ## Environment
 
@@ -13,3 +14,11 @@
 ```bash
 python train_model.py 
 ```
+
+## Acknowledgements
+
+The implementation of CC-GAN is revised based on [DeepCA](https://arxiv.org/abs/2407.14616). We thank the authors for their excellent work.
+
+## License
+
+This repository is licensed under the MIT License.
