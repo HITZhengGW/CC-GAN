@@ -8,4 +8,8 @@
 * **PyTorch**: = 2.4.1
 * **mamba-ssm**: = v2.2.6.post3
 
+## Training
 
+```bash
+python train_model.py 
+```
