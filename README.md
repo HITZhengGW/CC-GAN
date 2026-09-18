@@ -2,7 +2,13 @@
 
 This is the official PyTorch implementation for our paper, "CC-GAN: Coronary Artery 3D Reconstruction from Two X-ray Views with Mamba-based Topology-Aware Generator and Dual-Domain Discriminator".
 
+## Environment
 
+* **Operating System**: Ubuntu 22.04
+* **Python**: = 3.10
+* **PyTorch**: = 2.4.1
+* **mamba-ssm**: = v2.2.6.post3
+* **tigre**
 
 ## Acknowledgements
 
