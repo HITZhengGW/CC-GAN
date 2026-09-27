@@ -12,4 +12,4 @@ Left and right coronary artery branches are separated using `data_split.py`. Onl
 
 ## 4. Generate Back-projection Volumes
 
-Back-projection volumes are generated using `lca_simulation.py` and `rca_simulation.py`, which produce the back-projection volumes for the left and right coronary arteries, respectively, each under two views.
+Back-projection volumes are generated using `lca_simulation_BV.py` and `rca_simulation_BV.py`, which produce the back-projection volumes for the left and right coronary arteries, respectively, each under two views.
